@@ -27,12 +27,12 @@ Originally started as a basic project using Cramer's rule (2019), later signific
 
 ## Example Input
 3 
-2x1+3x2+4x3=16 
-1x1+2x2+1x3=8 
-3x1+1x2+2x3=13
-solve
+`2x1+3x2+4x3=16` 
+`1x1+2x2+1x3=8`
+`3x1+1x2+2x3=13`
+`solve`
 
 **Output:**
-x1 = 3
-x2 = 2
-x3 = 1
+`x1 = 3`
+`x2 = 2`
+`x3 = 1`
